@@ -52,6 +52,11 @@
     <Compile Include="frm_StartForm.Designer.cs">
       <DependentUpon>frm_StartForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="LagsportDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LagsportDBDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frm_StartForm.resx">
@@ -66,6 +71,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="LagsportDBDataSet.xsc">
+      <DependentUpon>LagsportDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LagsportDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LagsportDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LagsportDBDataSet.xss">
+      <DependentUpon>LagsportDBDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
