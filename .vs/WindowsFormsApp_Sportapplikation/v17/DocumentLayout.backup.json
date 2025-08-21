@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\SportsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|c:\\users\\david\\source\\repos\\sportsapp\\sportapplikation\\lagsportdbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|solutionrelative:sportapplikation\\lagsportdbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|C:\\Users\\david\\source\\repos\\SportsApp\\sportapplikation\\frm_startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|solutionrelative:sportapplikation\\frm_startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|c:\\users\\david\\source\\repos\\sportsapp\\sportapplikation\\frm_startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|solutionrelative:sportapplikation\\frm_startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LagsportDBDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Source\\Repos\\SportsApp\\SportApplikation\\LagsportDBDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "SportApplikation\\LagsportDBDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\david\\Source\\Repos\\SportsApp\\SportApplikation\\LagsportDBDataSet.Designer.cs",
+              "RelativeToolTip": "SportApplikation\\LagsportDBDataSet.Designer.cs",
+              "ViewState": "AgIAAHAFAAAAAAAAAAAiwIEFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:32:55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_StartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\SportsApp\\SportApplikation\\frm_StartForm.cs",
+              "RelativeDocumentMoniker": "SportApplikation\\frm_StartForm.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\SportsApp\\SportApplikation\\frm_StartForm.cs [Design]",
+              "RelativeToolTip": "SportApplikation\\frm_StartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:39:13.323Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_StartForm.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\SportsApp\\SportApplikation\\frm_StartForm.cs",
+              "RelativeDocumentMoniker": "SportApplikation\\frm_StartForm.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\SportsApp\\SportApplikation\\frm_StartForm.cs",
+              "RelativeToolTip": "SportApplikation\\frm_StartForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:37:43.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
