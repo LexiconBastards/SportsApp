@@ -30,9 +30,10 @@ namespace SportApplikation
 
         private void btn_AddNewTeam_Click(object sender, EventArgs e)
         {
-            // Let the user add a new team to the database in the SQL-server by the form "frm_Team"
-            //AddNewTeam();
-
+            // Let the user add a new team to the database in the SQL-server by the form "frm_AddTeam"
+            frm_AddTeam addteam = new frm_AddTeam();
+            addteam.Show();
+            this.Hide();
         }
     }
 }

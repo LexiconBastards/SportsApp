@@ -1,0 +1,12 @@
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\bin\Debug\SportApplikation.exe.config
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\bin\Debug\SportApplikation.exe
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\bin\Debug\SportApplikation.pdb
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.csproj.AssemblyReference.cache
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.frm_StartForm.resources
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.Properties.Resources.resources
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.csproj.GenerateResource.cache
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.exe
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.pdb
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.exe.config
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.frm_AddTeam.resources
