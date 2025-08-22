@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frm_AddTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AddTeam.Designer.cs">
+      <DependentUpon>frm_AddTeam.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_StartForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -59,6 +65,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_AddTeam.resx">
+      <DependentUpon>frm_AddTeam.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_StartForm.resx">
       <DependentUpon>frm_StartForm.cs</DependentUpon>
     </EmbeddedResource>

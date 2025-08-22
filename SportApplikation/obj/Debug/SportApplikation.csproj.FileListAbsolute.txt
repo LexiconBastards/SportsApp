@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\david\Source\Repos\SportsApp\SportApplikation\bin\Debug\SportApplikation.exe.config
 C:\Users\david\Source\Repos\SportsApp\SportApplikation\bin\Debug\SportApplikation.exe
 C:\Users\david\Source\Repos\SportsApp\SportApplikation\bin\Debug\SportApplikation.pdb
@@ -9,3 +10,18 @@ C:\Users\david\Source\Repos\SportsApp\SportApplikation\obj\Debug\SportApplikatio
 C:\Users\david\Source\Repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.exe
 C:\Users\david\Source\Repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.pdb
 C:\Users\david\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.exe.config
+=======
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\bin\Debug\SportApplikation.exe.config
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\bin\Debug\SportApplikation.exe
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\bin\Debug\SportApplikation.pdb
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.csproj.AssemblyReference.cache
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.frm_StartForm.resources
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.Properties.Resources.resources
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.csproj.GenerateResource.cache
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.exe
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.pdb
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.exe.config
+C:\Users\Lexicon\source\repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.frm_AddTeam.resources
+>>>>>>> 6938e24d5d9c9b8807209673c8488c9637a78e4c
+C:\Users\david\Source\Repos\SportsApp\SportApplikation\obj\Debug\SportApplikation.frm_AddTeam.resources

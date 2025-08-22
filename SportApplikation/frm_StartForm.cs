@@ -17,10 +17,7 @@ namespace SportApplikation
             InitializeComponent();
         }
 
-        //private void Label1_Click(object sender, EventArgs e)
-        //{
-
-        //}
+        // Initializing the connectionstring to the Apache servers database
 
         private void btn_Quit_Click(object sender, EventArgs e)
         {
@@ -32,7 +29,7 @@ namespace SportApplikation
         {
             // Let the user add a new team to the database in the SQL-server by the form "frm_Team"
             // Load the form "frm_Team" to add a new team
-            frm_Team frm_Team = new frm_Team();
+            frm_AddTeam frm_Team = new frm_AddTeam();
             frm_Team.ShowDialog();
             // After adding a new team, refresh the team list in the combobox
             this.tbl_LagTableAdapter.Fill(this.lagsportDBDataSet.tbl_Lag);
@@ -211,6 +208,10 @@ namespace SportApplikation
                 // Clear the textbox if less than four teams are selected
                 txtFourShoosedTeams.Text = string.Empty;
             }
+            // Let the user add a new team to the database in the SQL-server by the form "frm_AddTeam"
+            frm_AddTeam addteam = new frm_AddTeam();
+            addteam.Show();
+            this.Hide();
         }
     }
 }
