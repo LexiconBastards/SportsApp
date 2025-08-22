@@ -27,6 +27,7 @@ namespace SportApplikation
 
         private void btn_AddNewTeam_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             // Let the user add a new team to the database in the SQL-server by the form "frm_Team"
             // Load the form "frm_Team" to add a new team
             frm_AddTeam frm_Team = new frm_AddTeam();
@@ -208,6 +209,8 @@ namespace SportApplikation
                 // Clear the textbox if less than four teams are selected
                 txtFourShoosedTeams.Text = string.Empty;
             }
+=======
+>>>>>>> 6938e24d5d9c9b8807209673c8488c9637a78e4c
             // Let the user add a new team to the database in the SQL-server by the form "frm_AddTeam"
             frm_AddTeam addteam = new frm_AddTeam();
             addteam.Show();

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\SportsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|c:\\users\\david\\source\\repos\\sportsapp\\sportapplikation\\lagsportdbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|solutionrelative:sportapplikation\\lagsportdbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|C:\\Users\\david\\source\\repos\\SportsApp\\sportapplikation\\frm_startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|solutionrelative:sportapplikation\\frm_startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|c:\\users\\david\\source\\repos\\sportsapp\\sportapplikation\\lagsportdbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|solutionrelative:sportapplikation\\lagsportdbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2588F01-FF8A-442C-8D4B-5542A18CCA6B}|SportApplikation\\SportApplikation.csproj|C:\\Users\\david\\source\\repos\\SportsApp\\sportapplikation\\frm_startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LagsportDBDataSet.Designer.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\SportsApp\\SportApplikation\\LagsportDBDataSet.Designer.cs",
               "RelativeDocumentMoniker": "SportApplikation\\LagsportDBDataSet.Designer.cs",
@@ -50,19 +50,21 @@
               "ToolTip": "C:\\Users\\david\\source\\repos\\SportsApp\\SportApplikation\\frm_StartForm.cs [Design]",
               "RelativeToolTip": "SportApplikation\\frm_StartForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T13:39:13.323Z"
+              "WhenOpened": "2025-08-16T13:39:13.323Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frm_StartForm.cs",
               "DocumentMoniker": "C:\\Users\\david\\source\\repos\\SportsApp\\SportApplikation\\frm_StartForm.cs",
               "RelativeDocumentMoniker": "SportApplikation\\frm_StartForm.cs",
               "ToolTip": "C:\\Users\\david\\source\\repos\\SportsApp\\SportApplikation\\frm_StartForm.cs",
               "RelativeToolTip": "SportApplikation\\frm_StartForm.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:37:43.149Z"
+              "WhenOpened": "2025-08-16T16:37:43.149Z",
+              "EditorCaption": ""
             }
           ]
         }
